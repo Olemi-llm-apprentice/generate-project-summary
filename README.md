@@ -1,4 +1,4 @@
-# Project Summary Generator
+# Generate Project Summary 
 このPythonスクリプトは、プロジェクトのフォルダ構造を走査し、ファイルとその内容のMarkdown表現を作成することでプロジェクトのサマリーを生成します。プロジェクトの構造とファイルの内容を1つのMarkdownファイルにまとめて文書化するのに便利な方法を提供します。
 
 ## 特徴
